@@ -10,7 +10,7 @@
 
 **Centralizar e acelerar todo o fluxo de orçamento de drywall**
 
-[Funcionalidades](#-funcionalidades) • [Instalação](#-instalação) • [Como Usar](#-como-usar) • [Tecnologias](#-tecnologias) • [Roadmap](#-roadmap)
+[Funcionalidades](#-funcionalidades) • [Como Usar](#-como-usar) • [Tecnologias](#-tecnologias) • [Roadmap](#-roadmap)
 
 </div>
 
