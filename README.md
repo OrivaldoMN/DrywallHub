@@ -89,13 +89,9 @@ Profissionais de drywall tradicionalmente enfrentam:
 
 ### **Bibliotecas Python**
 ```python
-streamlit           # Framework web
-pandas              # Manipulação de dados
-supabase            # Cliente Supabase
-python-dotenv       # Gerenciamento de variáveis de ambiente
-datetime            # Manipulação de datas
-typing              # Type hints
-math                # Cálculos matemáticos
+streamlit            # Framework web
+pandas               # Manipulação de dados
+supabase             # Cliente Backend-as-a-Service
 ```
 
 ### **Banco de Dados**
