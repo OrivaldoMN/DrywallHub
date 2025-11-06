@@ -257,7 +257,7 @@ Sugestões de screenshots:
 - [ ] **Duplicação de projetos**: Copiar projetos existentes como base
 
 #### 🚀 **Funcionalidades Avançadas**
-- [ ] **Cálculo de tetos ripados**: Suporte a estruturas wood frame
+- [ ] **Cálculo de Steel Frame**: Suporte a estruturas Steel Frame
 - [ ] **Importação de plantas**: Upload de DWG/PDF para cálculo automático
 - [ ] **App mobile**: Versão nativa para Android/iOS
 - [ ] **Modo offline**: Trabalhe sem internet e sincronize depois
