@@ -166,7 +166,7 @@ Antes de calcular seu primeiro projeto:
 1. Acesse **💰 Preços** no menu lateral
 2. Edite os preços de acordo com seus fornecedores
 3. Configure múltiplas opções de embalagem (SKUs) se desejar
-4. Clique em **💾 Salvar Alterações**
+4. As alterações são salvas automaticamente
 
 ### **3. Criar um Novo Projeto**
 
